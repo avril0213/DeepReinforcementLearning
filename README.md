@@ -12,13 +12,13 @@ This repo is a collection of DRL materials. My basic suggestion for learning a n
 #### 3. David Silver - [Deep Reinforcement learning ](http://www.bilibili.com/video/av35209257/?share_source=copy_link&ts=1543374552&share_medium=iphone&bbid=443408f826526c920128486cafd06a44)(2015/5) [pdf](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)  
 
 ## Papers
-#### DQN
+#### DQN  [code](https://github.com/devsisters/DQN-tensorflow/tree/master/dqn)
 [Human-level control through deep reinforcement learning](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)
-#### DPG:
+#### DPG
 [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf)
 #### DDPG
 [Continous Control with Deep Reinforcement Learning](https://arxiv.org/pdf/1509.02971v2.pdf)
-combines DQN and DPG
+##### combines DQN and DPG
 #### A3C
 [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)
 #### PPO:
@@ -30,7 +30,7 @@ combines DQN and DPG
 #### 1. [Simple Reinforcement Learning with Tensorflow series](https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-4-deep-q-networks-and-beyond-8438a3e2b8df)
 #### 2. [A Free course in Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/#syllabus)  
 
-## Code
+## Code series
 #### 1. OpenAI -  [gym](https://github.com/openai/gym) [baselines][https://github.com/openai/baselines)
 
 #### 2. DeepMind - [TRFL](https://github.com/deepmind/trfl)
