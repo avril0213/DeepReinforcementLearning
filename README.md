@@ -31,7 +31,7 @@ This repo is a collection of DRL materials. My basic suggestion for learning a n
 #### 2. [A Free course in Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/#syllabus)  
 
 ## Code series
-#### 1. OpenAI -  [gym](https://github.com/openai/gym) [baselines][https://github.com/openai/baselines)
+#### 1. OpenAI -  [gym](https://github.com/openai/gym) [baselines](https://github.com/openai/baselines)
 
 #### 2. DeepMind - [TRFL](https://github.com/deepmind/trfl)
 #### 3. Facebook - [Horizon](https://github.com/facebookresearch/Horizon)
